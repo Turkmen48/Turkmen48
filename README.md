@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Turkmen48
-- 👀 I’m interested in good movies/series, games, camping and absolutely coding.
+- 👀 I’m interested in good movies/series, games, camping and of course coding.
 - 🌱 I’m currently learning c++, c# and flutter (dart).
 - 💞️ I’m looking to collaborate on nothing (!for now! )
 - 📫 How to reach me
