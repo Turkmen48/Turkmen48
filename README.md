@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Turkmen48<br>👀 I’m interested in good movies/series, games, camping and of course coding.<br>🌱 I’m currently learning c, c++, c# and flutter (dart).<br>🌲 I’m know c, c#, python, flutter framework, dart, asp.net core, asp.net framework, mysql, mssql, sql, firebase and visualbasic (for excel macros) . Also I could use Sony Vegas, Davinci Resolve, Audition, Photoshop, Illustrator.<br>💞️ I’m looking to collaborate on nothing (!for now! )<br>📫 How to reach me<br>📬 enesusta6638@gmail.com<br>📷 instagram: @enes_usta48<br>🕴 LinkedIn: https://www.linkedin.com/in/enesdurmus/<br>🐦Twitter: @aazdenkur
+👋 Hi, I’m @Turkmen48<br>👀 I’m interested in good movies/series, games, camping and of course coding.<br>🌱 I’m currently learning c, c++, c# and flutter (dart).<br>🌲 I’m know c, c#, python, flutter framework, dart, asp.net core, asp.net framework, mysql, mssql, sql, firebase and visualbasic (for excel macros). Also I could use Sony Vegas, Davinci Resolve, Audition, Photoshop, Illustrator.<br>💞️ I’m looking to collaborate on nothing (!for now! )<br>📫 How to reach me<br>📬 enesusta6638@gmail.com<br>📷 instagram: @enes_usta48<br>🕴 LinkedIn: https://www.linkedin.com/in/enesdurmus/<br>🐦Twitter: @aazdenkur
 
 
 ## 🌐 Socials:
